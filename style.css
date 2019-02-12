@@ -2,7 +2,10 @@
 .center {
   text-align: center;
 
-}         
+} 
+h4{ 
+  text_align: right;
+}
 body {
   background-color: linen;
 }
