@@ -1,8 +1,9 @@
-head{
-  height:100%;
-  margin:0;
+h1{
+
   	text-align: center;
-  width: 100%;
+}
+p{
+  text-align: center;
 }
   h1{ 
   color: blue;
